@@ -1,2 +1,2 @@
-# EXXTREM3-SOUND-DESIGNER
+# EXTREM3-SOUND-DESIGNER
 Sound Designer for Kontakt
